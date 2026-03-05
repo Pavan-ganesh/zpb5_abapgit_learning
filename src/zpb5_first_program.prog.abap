@@ -5,8 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZPB5_FIRST_PROGRAM NO STANDARD PAGE HEADING.
 
-write: `hello to github for sap gui`.
-
-write: `first change`.
-
-write: ` first change through git hub`.
+write: `hello from feature branch`.
